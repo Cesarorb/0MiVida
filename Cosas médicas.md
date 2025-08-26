@@ -1,7 +1,7 @@
 Psicólogo - Diagnóstico de TDA/H
 Neurólogo - Llevar papel del TDA para revisar medicación
 Alergólogo - Alergia a los AINES
-Fisioterapeuta - Desbalance de lado izquierdo y derecho
+Fisioterapeuta/Traumatologo - Desbalance de lado izquierdo y derecho
 Polisomnografía - Problema de insomnio, apnea del sueño
 Electroencefalograma - Psicólogo
 
