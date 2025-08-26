@@ -1,1 +1,1 @@
-Agregar validacion para Sexo no binario en el servicio de Traspaso por Separación de Cuentas
+Agregar #validacion para Sexo no binario en el servicio de Traspaso por Separación de Cuentas

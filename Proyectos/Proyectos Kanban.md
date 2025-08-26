@@ -32,10 +32,11 @@ kanban-plugin: board
 - [ ] [[StpValidarDatosBeneficiaroClabeBancaria]]
 - [ ] [[RetiroAV]]
 - [ ] [[DepuradorBuzonSAR]]
-- [ ] [[AccesarCambioLogoBanamex]]
+- [ ] [[AccesarBanamexCambioLogo]]
 - [ ] [[AccesarSexoNoBinarioAzteca]]
 - [ ] [[TraspasoSeparacionCuentasSexoNoBinario]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
+- [ ] [[AccesarAztecaBajaUsuariosReenvioCredenciales]]
 
 
 ## Reasignado
@@ -47,6 +48,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,true]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,false]}
 ```
 %%

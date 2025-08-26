@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1756249559776,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1756249605736,
+          "path": "Proyectos/AccesarBanamexCambioLogo.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249729864,
+          "path": "Proyectos/RetiroAV.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249744064,
+          "path": "Proyectos/AccesarReagendarCancelarCita.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249749600,
+          "path": "Proyectos/AccesarSexoNoBinarioAzteca.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249754176,
+          "path": "Proyectos/DepuradorBuzonSAR.md"
+        },
+        {
+          "type": "folder",
+          "ctime": 1756249762953,
+          "path": "Proyectos"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249772944,
+          "path": "Proyectos/ManejoImgBanorte.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249776688,
+          "path": "Proyectos/ManejoImgMultipart.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249780592,
+          "path": "Proyectos/Modalidad40.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249791352,
+          "path": "Proyectos/Proyectos Kanban.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249785368,
+          "path": "Proyectos/NotificacionDetalleInformacionGenerica.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249819584,
+          "path": "Proyectos/StpValidarDatosBeneficiaroClabeBancaria.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249823520,
+          "path": "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1756249831584,
+          "path": "Proyectos/AccesarAztecaBajaUsuariosReenvioCredenciales.md"
+        }
+      ],
+      "title": "Procesar"
+    },
+    {
+      "type": "group",
+      "ctime": 1756249565265,
+      "items": [],
+      "title": "Salud"
+    },
+    {
+      "type": "group",
+      "ctime": 1756249579960,
+      "items": [],
+      "title": "Importante"
+    },
+    {
+      "type": "group",
+      "ctime": 1756249586944,
+      "items": [],
+      "title": "TDAH"
+    }
+  ]
+}
