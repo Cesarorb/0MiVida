@@ -1,0 +1,1 @@
+Actualizar el logo de Banamex y revisar la caída de datos en la documentación de Activa-Activa y Activa-Terceros

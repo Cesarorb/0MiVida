@@ -1,0 +1,1 @@
+Crear las entidades de mapeo de las tablas correspondientes.

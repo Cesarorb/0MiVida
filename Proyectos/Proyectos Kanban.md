@@ -29,12 +29,12 @@ kanban-plugin: board
 - [ ] [[Modalidad40]]
 - [ ] [[ManejoImgBanorte]]
 - [ ] [[ManejoImgMultipart]]
-- [ ] [[ValidarDatosBeneficiaroClabeBancaria]]
+- [ ] [[StpValidarDatosBeneficiaroClabeBancaria]]
 - [ ] [[RetiroAV]]
-- [ ] [[DepuradorRetParApp]]
+- [ ] [[DepuradorBuzonSAR]]
 - [ ] [[AccesarCambioLogoBanamex]]
 - [ ] [[AccesarSexoNoBinarioAzteca]]
-- [ ] [[TraspasoSeparacionCuentas]]
+- [ ] [[TraspasoSeparacionCuentasSexoNoBinario]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
 
 
@@ -47,6 +47,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,true]}
 ```
 %%
