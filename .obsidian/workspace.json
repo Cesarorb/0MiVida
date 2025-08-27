@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2e39582680821451",
+        "id": "f2b2a8dd6ab67331",
         "type": "tabs",
         "children": [
           {
-            "id": "df36f129b82aaa1a",
+            "id": "057fad5d2d10ab6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TraspasoSeparacionCuentasSexoNoBinario"
             }
           }
         ]
@@ -109,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de TraspasoSeparacionCuentasSexoNoBinario"
             }
           },
           {
@@ -137,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de TraspasoSeparacionCuentasSexoNoBinario"
             }
           },
           {
@@ -175,10 +191,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ce0d50174bfcd67",
+  "active": "057fad5d2d10ab6b",
   "lastOpenFiles": [
+    "Proyectos/Proyectos.md",
+    "Bitacora/Lista de Tareas.md",
     "Proyectos/AccesarAztecaBajaUsuariosReenvioCredenciales.md",
-    "Proyectos/Proyectos Kanban.md",
     "Proyectos/NotificacionDetalleInformacionGenerica.md",
     "Proyectos/RetiroAV.md",
     "Proyectos/AccesarBanamexCambioLogo.md",
@@ -188,14 +205,12 @@
     "Proyectos/DepuradorBuzonSAR.md",
     "Bitacora/2025-08-25.md",
     "Bitacora/2025-08-26.md",
-    "Bitacora/Lista de Tareas.md",
     "cree un enlace.md",
     "Bienvenido.md",
     "Bitacora/Cosas médicas.md",
     "Welcome.md",
     "README.md",
     "Proyectos/ManejoImgBanorte.md",
-    "Proyectos/Proyectos.md",
     "Proyectos/TraspasoSeparacionCuentas.md",
     "SexoNoBinarioTraspasoSeparacionCuentas.md",
     "Proyectos/ManejoImgMultipart.md",
