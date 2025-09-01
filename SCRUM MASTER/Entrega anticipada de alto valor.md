@@ -1,1 +1,0 @@
-El proceso de crear el [[Backlog priorizado del producto]] garantiza que los requerimientos de alto valor del cliente se cumplan primero.

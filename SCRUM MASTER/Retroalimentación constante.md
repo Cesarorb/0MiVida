@@ -1,1 +1,0 @@
-Los procesos de realizar el [[Daily Standup]] y Demostrar y validar el [[Sprint]] permiten una constante retroalimentación.

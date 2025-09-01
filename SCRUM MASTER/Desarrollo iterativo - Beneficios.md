@@ -1,2 +1,0 @@
-- El **desarrollo iterativo** permite la corrección a medida que todas las personas involucradas tienen una mejor comprensión de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa.
-- Así, el tiempo y el esfuerzo requerido para alcanzar el punto final definitivo, se reduce considerablemente y el equipo produce entregables que se adaptan mejor al entorno de la organización.

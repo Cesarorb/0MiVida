@@ -1,2 +1,2 @@
 Tester: #BrendaHernandez
-Actualizar el logo de Banamex y revisar la caída de datos en el #Formato de Activa-Activa y el #Formato Activa-Terceros
+Actualizar el logo de Banamex y revisar la caída de datos en el formato de Activa-Activa y el formato Activa-Terceros

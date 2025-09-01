@@ -1,1 +1,0 @@
-El control del proceso empírico y la entrega iterativa hacen que los proyectos sean adaptables y abiertos a la incorporación del cambio.

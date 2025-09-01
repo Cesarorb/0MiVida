@@ -1,3 +1,3 @@
 Líder: #DavidBarbosa
 PO: #MelanieJimenez
-Arreglar el checkbox de las #Pantalla de Baja de Usuarios y la #Pantalla reenvío de Credenciales de Afore Azteca
+Arreglar el checkbox de las pantalla de Baja de Usuarios y la pantalla reenvío de Credenciales de Afore Azteca

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b2a8dd6ab67331",
+        "id": "c976ab691b86cacc",
         "type": "tabs",
         "children": [
           {
-            "id": "057fad5d2d10ab6b",
+            "id": "97038be3bd724d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Procesar/Proyectos/AccesarBanamexCambioLogo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AccesarBanamexCambioLogo"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#formato",
+                "query": "tag:#Formato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,16 +192,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "057fad5d2d10ab6b",
+  "active": "ef34959d4f563a69",
   "lastOpenFiles": [
-    "Weekly Gerencia.md",
+    "Procesar/Proyectos/AccesarAztecaBajaUsuariosReenvioCredenciales.md",
+    "Procesar/Proyectos/DepuradorBuzonSAR.md",
+    "Bitacora/2025-08-26.md",
+    "Bitacora/2025-08-25.md",
+    "Procesar/Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
+    "Procesar/Proyectos/AccesarSexoNoBinarioAzteca.md",
+    "Procesar/Proyectos/RetiroAV.md",
+    "Procesar/Healt Coach.md",
+    "Procesar/Kanban.md",
+    "Proceso Proyectos.md",
+    "Proyectos.md",
     "README.md",
+    "Weekly Gerencia.md",
     "Roles secundarios - Servicios de apoyo.md",
     "Roles secundarios - Scrum Guidance Body.md",
     "Roles secundarios - Proveedores.md",
     "Roles secundarios - Interesados del negocio.md",
-    "Proyectos.md",
-    "Proceso Proyectos.md",
     "Bienvenido.md",
     "Proceso de priorización de riesgos.md",
     "Procedimiento de gestión de riesgos - Priorización.md",
@@ -210,15 +220,6 @@
     "Procedimiento de gestión de riesgos - Comunicación.md",
     "Pasos para actualizar un backlog priorizado del producto con los riesgos identificados.md",
     "Justificación del negocio - Entrega basada en valor.md",
-    "Justificación del negocio - Ciclo de vida del proyecto.md",
-    "Healt Coach.md",
-    "Gestión Tradicional de Riesgos - Diagrama.md",
-    "Gestión de Riesgos en Scrum - Diagrama.md",
-    "Ejemplos de riesgos y problemas.md",
-    "Diferencias entre riesgos y problemas.md",
-    "Ciclo de planificar, hacer verificar y actuar.md",
-    "Cambio en Scrum Equilibrio entre flexibilidad y estabilidad.md",
-    "Cambio - Proceso de aprobación de cambios.md",
     "Proyectos",
     "Desarrollo",
     "Sin título.canvas",

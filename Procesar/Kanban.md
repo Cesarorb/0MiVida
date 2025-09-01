@@ -44,10 +44,18 @@ kanban-plugin: board
 - [ ] [[AccesarReagendarCancelarCita]]
 
 
+## SIQA
+
+
+
+## Terminado
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,false,false,false]}
 ```
 %%

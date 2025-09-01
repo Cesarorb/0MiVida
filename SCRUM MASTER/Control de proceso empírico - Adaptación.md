@@ -1,1 +1,0 @@
-La adaptación se da cuando el Equipo Principal de Scrum y los interesados del negocio aprenden mediante la transparencia y la inspección, y despues se adaptan al hacer mejoras en el trabajo que llevan a cabo.

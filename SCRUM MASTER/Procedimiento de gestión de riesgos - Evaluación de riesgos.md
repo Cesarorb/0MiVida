@@ -1,4 +1,0 @@
-- La evaluación de riesgos ayuda a entender su afectación potencial, considerando la posibilidad de que suceda y el momento en que pueda materializarse.
-- Se debe estimar su efecto directo en el valor al negocio. Si la afectación potencial puede superar en beneficio esperado al realizar la justificación del negocio, se debe tomar la decisión sobre la viabilidad de desarrollar el proyecto.
-- La evaluación de riesgo se lleva a cabo estimando la probabilidad, la proximidad e impacto.
-- La probabilidad de riesgo representa el nivel estimado de su ocurrencia, mientras que la proximidad se refiere al momento en el que pueda suscitarse. El impacto es el efecto probable sobre el proyecto u organización.

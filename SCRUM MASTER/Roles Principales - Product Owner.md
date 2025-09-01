@@ -1,4 +1,0 @@
-- Representa los intereses de la comunidad de interesados y es responsable de que el [[Equipo Scrum]] entregue valor.
-- Escribe los requisitos de negocio en forma de [[Historias de Usuario]] con las aportaciones del Equipo Principal Scrum y administra el [[Backlog priorizado del producto]].
-- En algunos casos, los integrantes del Equipo Scrum escriben [[Historias de Usuario]] bajo la coordinación y guía del [[Product Owner]], aunque este sigue siendo responsable de dicha actividad.
-- Es responsable de asegurar una clara comunicación de las funcionalidades del producto o servicio al [[Equipo Scrum]] y por lo tanto se le conoce como **"la voz del cliente"**.

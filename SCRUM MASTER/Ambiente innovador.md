@@ -1,1 +1,0 @@
-Los procesos de [[Retrospectiva del Sprint]] y [[Retrospectiva de la liberación]] crean un ambiente de introspección, aprendizaje y adaptabilidad, lo cual resulta en un ambiente laboral innovador y creativo.

@@ -1,1 +1,0 @@
-En la Teoría Y, los líderes asumen que los empleados son auto motivados y buscan aceptar una mayor responsabilidad. La Teoría Y implica un estilo mas participativo de gestión.

@@ -1,2 +1,0 @@
-- Para las prácticas de Scrum, se necesita una comunicación de high-bandwidth. Por lo tanto es preferible que los miembros del equipo estén coubicados.
-- La **coubicación** permite la **interacción** formal e informal entre los miembros del equipo. Esto brinda la ventaja de contar con miembros del equipo siempre a la mano para facilitar la coordinación, la resolución del problema y el aprendizaje.
