@@ -5,10 +5,11 @@ flowchart TD
 	-->C["Actualización HU"]
 	-->D["Descarga y despliegue</br>SVN, Bitbucket, Github"]
 	-->E["Construcción"]
-	-->F["MD - Manual de Despliegue</br>-Archivos estáticos</br>-Properties</br>DT - Diseño técnico</br>"]
-	-->G[]
-	-->H[ARchivos estáticos]
-	-->I[]
+	-->F["MD - Manual de Despliegue</br>-Archivos estáticos</br>-Properties</br>DT - Diseño técnico</br>-Reglas de negocio"]
+	-->G["Pruebas DEV</br>PU - Pruebas Unitarias</br>Evidencia de pruebas"]
+	-->H["Pruebas Unitarias</br>Cobertura Min. 90%"]
+	-->I["Portal</br>-Contexto</br>-Permiso"]
+	
 ```
 ---
 - [ ] Entrega HU
