@@ -1,0 +1,6 @@
+- El [[Scrum Guidance Body]] (SGB) es una rol opcional, aunque altamente recomendado para formalizar las prácticas organizacionales relacionadas a Scrum.
+- Actúa como una herramienta de consultoría u orientación para todos los niveles de la jerarquía en el proyecto de organización del portafolio, programa y proyecto.
+- Por lo general se compone de un grupo de documentos o un grupo de expertos que normalmente están involucrados en definir los objetivos relacionados a la calidad, regulaciones gubernamentales, seguridad y otros parámetros clave de la organización.
+- El [[Scrum Guidance Body]] también ayuda a captar las mejores prácticas que deben utilizarse en todos los proyectos de [[SCRUM]] en la organización.
+- El [[Scrum Guidance Body]] no toma decisiones relacionadas al proyecto.
+- El [[Equipo Scrum]] tiene la opción de la opción de solicitar ayuda al [[Scrum Guidance Body]] sobre cualquier recomendación que quieran.

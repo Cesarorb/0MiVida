@@ -1,0 +1,7 @@
+- Los miembros del Equipo Scrum son [[Generalistas]] o [[Especialistas]].
+- Más allá de la experiencia en la materia, son las habilidades interpersonales de cada miembro del equipo lo que determinará el éxito de los equipos auto organizados.
+- Los miembros ideales del [[Equipo Scrum]] son independientes, autoorganizados, se enfocan en el cliente y tienen un alto sentido de responsabilidad y colaboración.
+- El equipo debe ser capaz de fomentar un ambiente de reflexión independiente y de tomar decisiones con el fin de extraer los mayores beneficios de la estructura.
+- Al seleccionar los equipos, otro aspecto importante es la creación de substitutos para cada miembro del [[Equipo Scrum]].
+- Esto asegura que no haya una disminución importante en la productividad debido a la falta de un miembro del equipo.
+- Cada miembro del equipo respaldará a un miembro "especialista", quien mejora las habilidades de los miembros del equipo.

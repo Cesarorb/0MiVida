@@ -1,0 +1,1 @@
+La colaboración y la coubicación de equipos multidisciplinarios conducen a la resolución de problemas con mayor rapidez.

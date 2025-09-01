@@ -1,0 +1,4 @@
+- Las preguntas se contestan rápidamente.
+- Los problemas se solucionan en ese momento.
+- Existe menor fricción entre las interacciones.
+- La confianza se gana con mucha más rapidez.

@@ -1,0 +1,14 @@
+- Caso de negocio del proyecto.
+- Declaración de la visión del proyecto.
+- Backlog priorizado del producto.
+	- Cronograma de liberación.
+- Backlog del Sprint
+	- Reunión de planificación del Sprint
+- Crear entregables
+	- Sprint
+		- 1 - 4 semanas
+	- Daily Scrum
+		- Diariamente
+- Entregables aceptados
+	- Reunión de revisión del Sprint
+	- Reunión de retrospectiva del Sprint

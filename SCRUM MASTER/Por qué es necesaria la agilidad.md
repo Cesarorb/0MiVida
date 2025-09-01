@@ -1,0 +1,6 @@
+- Mercados y tecnologías que cambian rápidamente.
+- Necesidad de estar a la vanguardia.
+- Reducción del "tiempo para comercializar" productos y aumento en la demanda de innovación por parte de los clientes.
+- Reducción de costos de pruebas y experimentación (simulación y automatización).
+- El valor para el cliente se entrega en el punto de venta, no en el punto de planificación.
+- Necesidad de un método adaptativo de desarrollo en vez de métodos tradicionales y predictivos.

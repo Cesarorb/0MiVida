@@ -1,0 +1,1 @@
+Emprendimiento colaborativo para crear nuevos productos o servicios o para obtener resultados.

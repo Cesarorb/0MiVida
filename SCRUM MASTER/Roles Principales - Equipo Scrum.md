@@ -1,0 +1,3 @@
+- Al Equipo Scrum se le conoce también como **"Equipo de Desarrollo"**, ya que es responsable de desarrollar el producto, servicio u otro resultado.
+- Está integrado por un grupo de 6 a 1 personas que trabajan en las [[Historias de Usuario]] en el [[Backlog]] del [[Sprint]] a fin de crear los entregables del proyecto.
+- ![[Equipo Scrum - Selección del equipo]]

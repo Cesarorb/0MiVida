@@ -1,0 +1,6 @@
+- **Jeff Shutherland, John Scumniotales y Jeff Mckenna** concibieron, ejecutaron y documentaron el primer Scrum para desarrollo de software en 1993, utilizando el estudio de gestión de equipos de **Takeuchi** y **Nonaka** como base.
+- En 1995 Ken Schwaber** formalizó el proceso para la industria de desarrollo de software.
+- Fue descrito como un método innovador para el desarrollo de productos al que llamaron método holístico o método "Rugby".
+- Fue definido como una estrategia flexible e incluyente  para el desarrollo de productos.
+- El método se basó en estudios de caso de distintas industrias manufactureras.
+- El desarrollo de productos no debe ser como una carrera de relevos secuencial, sino que debería ser similar al del juego de Rugby.

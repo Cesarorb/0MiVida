@@ -1,0 +1,1 @@
+Todos los emisores de información, tales como el [[Scrumboard]] y el [[Sprint Burndown]] o el [[Burnup Chart]] son compartidos, lo cual lleva a un ambiente laboral abierto.

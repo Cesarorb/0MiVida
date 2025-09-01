@@ -1,0 +1,5 @@
+- Los riesgos son incertidumbres potenciales para un proyecto.
+- Los problemas son afectaciones reales que se suscitan en el proyecto, por lo que no hay necesidad de evaluar su probabilidad, como los riesgos, los problemas deben atenderse.
+- Si no se atienden a tiempo los riesgos podrían convertirse en problemas.
+- EL objetivo de la gestión tradicional de riesgos es estar preparados con planes para poder abordar cualquier riesgo que pudiera presentarse.
+- La gestión de riesgos en [[SCRUM]] está mas alineada a la pronta priorización y atención de riesgos detectados y a la solución de problemas que ocurran durante los [[Sprint]].
