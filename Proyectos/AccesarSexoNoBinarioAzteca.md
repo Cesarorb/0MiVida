@@ -1,0 +1,1 @@
+Agregar #validación y caída de datos para sexo No Binario en el #formato de Afore Azteca
