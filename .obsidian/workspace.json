@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TraspasoSeparacionCuentasSexoNoBinario"
+              "title": "README"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Incidencia",
+                "query": "tag:#formato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 331.5
   },
   "right": {
     "id": "a86b461bad0e61d4",
@@ -167,8 +167,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -193,31 +193,32 @@
   },
   "active": "057fad5d2d10ab6b",
   "lastOpenFiles": [
-    "Proyectos/Proyectos.md",
-    "Bitacora/Lista de Tareas.md",
-    "Proyectos/AccesarAztecaBajaUsuariosReenvioCredenciales.md",
-    "Proyectos/NotificacionDetalleInformacionGenerica.md",
-    "Proyectos/RetiroAV.md",
-    "Proyectos/AccesarBanamexCambioLogo.md",
-    "Proyectos/AccesarSexoNoBinarioAzteca.md",
-    "Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
-    "Proyectos/StpValidarDatosBeneficiaroClabeBancaria.md",
-    "Proyectos/DepuradorBuzonSAR.md",
-    "Bitacora/2025-08-25.md",
-    "Bitacora/2025-08-26.md",
-    "cree un enlace.md",
-    "Bienvenido.md",
-    "Bitacora/Cosas médicas.md",
-    "Welcome.md",
+    "Weekly Gerencia.md",
     "README.md",
-    "Proyectos/ManejoImgBanorte.md",
-    "Proyectos/TraspasoSeparacionCuentas.md",
-    "SexoNoBinarioTraspasoSeparacionCuentas.md",
-    "Proyectos/ManejoImgMultipart.md",
-    "Desarrollo/Análisis HU.md",
-    "Desarrollo/Solicitud de Pruebas.md",
-    "TDAH Udemy/1 El TDAH como trastorno neurobiológico.md",
-    "TDAH Udemy/2 El TDAH como trastorno de las funciones ejecutivas.md",
+    "Roles secundarios - Servicios de apoyo.md",
+    "Roles secundarios - Scrum Guidance Body.md",
+    "Roles secundarios - Proveedores.md",
+    "Roles secundarios - Interesados del negocio.md",
+    "Proyectos.md",
+    "Proceso Proyectos.md",
+    "Bienvenido.md",
+    "Proceso de priorización de riesgos.md",
+    "Procedimiento de gestión de riesgos - Priorización.md",
+    "Procedimiento de gestión de riesgos - Mitigación.md",
+    "Procedimiento de gestión de riesgos - Identificación.md",
+    "Procedimiento de gestión de riesgos - Evaluación de riesgos.md",
+    "Procedimiento de gestión de riesgos - Comunicación.md",
+    "Pasos para actualizar un backlog priorizado del producto con los riesgos identificados.md",
+    "Justificación del negocio - Entrega basada en valor.md",
+    "Justificación del negocio - Ciclo de vida del proyecto.md",
+    "Healt Coach.md",
+    "Gestión Tradicional de Riesgos - Diagrama.md",
+    "Gestión de Riesgos en Scrum - Diagrama.md",
+    "Ejemplos de riesgos y problemas.md",
+    "Diferencias entre riesgos y problemas.md",
+    "Ciclo de planificar, hacer verificar y actuar.md",
+    "Cambio en Scrum Equilibrio entre flexibilidad y estabilidad.md",
+    "Cambio - Proceso de aprobación de cambios.md",
     "Proyectos",
     "Desarrollo",
     "Sin título.canvas",
