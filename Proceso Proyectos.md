@@ -1,14 +1,25 @@
-Pantalla de generación de reporte de Modalidad40, se deben generar en el Excel 2 tablas una para los consecutivos 002 y otra para los consecutivos 007.
-
-Se solicitó que al realizar la consulta los registros se ordenen por 
-
+```mermaid
+flowchart TD
+	A["Entrega HU"]
+	-->B["Analisis HU"]
+	-->C["Actualización HU"]
+	-->D["Descarga y despliegue</br>SVN, Bitbucket, Github"]
+	-->E["Construcción"]
+	-->F["MD - Manual de Despliegue</br>-Archivos estáticos</br>-Properties</br>DT - Diseño técnico</br>"]
+	-->G[]
+	-->H[ARchivos estáticos]
+	-->I[]
+```
 ---
+- [ ] Entrega HU
 - [ ] Análisis HU
+	- [ ] Actualización HU
 - [ ] Descarga y despliegue
 	- [ ]  SVN, Bitbucket, Github
 - [ ]  Construcción
 	- [ ]  MD - Manual de Despliegue
-		- [ ]  Archivos estáticos, Properties
+		- [ ]  Archivos estáticos
+		- [ ] Properties
 	- [ ]  DT - Diseño Técnico
 		- [ ]  Reglas de negocio
 - [ ]  Pruebas DEV

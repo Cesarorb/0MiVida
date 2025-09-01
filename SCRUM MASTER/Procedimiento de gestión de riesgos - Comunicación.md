@@ -1,0 +1,4 @@
+- Todos los interesados en el proyecto necesitan estar informados, constantemente, sobre los riesgos, incluyendo la afectación potencial y los planes para hacerles frente.
+- La comunicación debe ser continua, debiendo ocurrir a la par de los cuatro pasos secuenciales de gestión del riesgo: identificación evaluación, priorización y mitigación de riesgos.
+- El [[Roles Principales - Equipo Scrum|Equipo Scrum]] debe informar y gestionar los impedimentos (riesgos) relacionados a sus tareas con el [[Roles Principales - Scrum Master|Scrum Master]], durante el desarrollo de los Daily Standups.
+- El [[Roles Principales - Product Owner|Product Owner]] es responsable de llevar a cabo la priorización de riesgos y de la comunicación del backlog priorizado del producto al [[Roles Principales - Equipo Scrum|Equipo Scrum]].

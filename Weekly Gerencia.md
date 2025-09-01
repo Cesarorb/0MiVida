@@ -1,0 +1,1 @@
+Reunión semanal de seguimiento de actividades del equipo de trabajo.

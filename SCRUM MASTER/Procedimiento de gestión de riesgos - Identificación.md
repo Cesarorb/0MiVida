@@ -1,0 +1,3 @@
+- Los miembros del [[Equipo Scrum - Selección del equipo|Equipo Scrum]] deben hacer un intento por identificar todos los riesgos que pudieran afectar el proyecto.
+- La identificación de riesgos se lleva a cabo a lo largo del proyecto y los riesgos identificados se convierten en entradas, en varios procesos de [[SCRUM]].
+- En la fase inicial del proyecto la participación del cliente y demás interesados del proyecto es indispensable para la identificación de riesgos.
