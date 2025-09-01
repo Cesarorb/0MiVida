@@ -1,0 +1,3 @@
+- Conciencia: Las personas que trabajan juntas deben estar al tanto del trabajo de los demás.
+- Articulación: Los colaboradores deben distribuir el trabajo en unidades entre los miembros del equipo.
+- Apropiación: Adaptar la tecnología a la situación individual, la tecnología se puede utilizar de forma completamente, distinta a lo esperado por los diseñadores.

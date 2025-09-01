@@ -1,0 +1,11 @@
+Scrum mantiene que el Scrum Master debe ser un líder de apoyo con las siguientes características:
+- Escucha
+- Empatía
+- Reparación
+- Conocimiento
+- Persuasión
+- Conceptualización
+- Previsión
+- Gestión
+- Compromiso con el crecimiento de los demás
+- Desarrollo comunitario

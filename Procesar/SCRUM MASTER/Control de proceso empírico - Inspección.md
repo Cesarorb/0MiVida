@@ -1,0 +1,2 @@
+- La inspección permite que todas las facetas de cualquier proceso [[SCRUM]] puedan ser inspeccionadas por cualquier persona.
+- Esta inspección puede hacerse con productos, procesos o cualquier otra actividad en un proyecto de Scrum.

@@ -1,0 +1,1 @@
+Los entregables mejoran progresivamente [[Sprint]] tras [[Sprint]] mediante el proceso de Refinar el [[Backlog priorizado del producto]]

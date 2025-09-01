@@ -1,0 +1,1 @@
+- Sucede cuando el producto del trabajo consiste en la suma del esfuerzo del trabajo de varias personas un equipo.

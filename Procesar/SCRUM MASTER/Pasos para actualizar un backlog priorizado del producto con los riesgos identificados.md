@@ -1,0 +1,4 @@
+1. Crear una lista de riesgos priorizados (por ejemplo: los riesgos se pueden priorizar por valor utilizando la técnica de valor monetario esperado).
+2. Seleccionar aquellos riesgos identificados que deben mitigarse; para los cuáles el equipo deberá definir tareas específicas a realizar durante los primeros [[Sprint]], a fin de mitigarlos.
+3. Crear la lista de historias de usuarios (backlog del producto), mismas que se priorizan por valor (por ejemplo: el valor de cada historia de usuario se puede evaluar con base en su retorno en la inversión esperado).
+4. Combinar las listas de los pasos 2 y 3 y priorizados por valor y después por riesgo.

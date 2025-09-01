@@ -1,0 +1,3 @@
+- Los riesgos identificados se toman en cuenta al priorizar o actualizar el backlog del proyecto.
+- Las historias de usuario priorizadas del backlog del producto existente y la lista priorizada de riesgos se combinan para crear un backlog actualizado que incluya los riesgos identificados.
+- El backlog de un proyecto, de alta incertidumbre podría ser estructurado dando mayor énfasis a la priorización por riesgo, con lo que se definiría como **Backlog priorizado ajustado al riesgo**.

@@ -1,0 +1,1 @@
+El proceso iterativo permite la entrega constante de valor mediante el proceso de *[[Enviar entregables]]*, tan frecuentemente como el cliente lo requiera.

@@ -1,0 +1,5 @@
+- Scrum mantiene la flexibilidad de que las solicitudes de cambio se pueden crear y aprobar en cualquier momento durante el proyecto.
+- Scrum asegura la estabilidad al refinar el Backlog del [[Sprint]] y al no permitir la interferencia con el [[Equipo Scrum]] durante un [[Sprint]] en desarrollo.
+- No se introduce ningún cambio en un [[Sprint]] en desarrollo, se posponen para ser realizados en los siguientes [[Sprint]].
+- En el caso de un cambio urgente, crítico o que impida realizar el [[Sprint]], se puede considerar su suspensión y el [[Equipo Scrum]] deberá definir la planificación de uno nuevo o modificar los que ya se tengan previstos.
+- Es así como [[SCRUM]] acepta los cambios si crear problemas de cambio en fechas de liberación o inestabilidad en el desarrollo de los [[Sprint]].
