@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procesar/Proyectos/AccesarBanamexCambioLogo.md",
+                "file": "Procesar/Proyectos/NotificacionDetalleInformacionGenerica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AccesarBanamexCambioLogo"
+              "title": "NotificacionDetalleInformacionGenerica"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Formato",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,17 +191,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ef34959d4f563a69",
+  "active": "97038be3bd724d4c",
   "lastOpenFiles": [
-    "Procesar/Proyectos/AccesarAztecaBajaUsuariosReenvioCredenciales.md",
+    "Procesar/Kanban.md",
+    "Procesar/Proyectos/ReporteModalidad40.md",
+    "Procesar/Proyectos/AztecaBajaUsuariosReenvioCredenciales.md",
+    "Procesar/Proyectos/TraspasoSeparacionCuentas.md",
+    "Procesar/Proyectos/SexoNoBinarioAzteca.md",
+    "Procesar/Proyectos/BanamexCambioLogo.md",
+    "Procesar/Proyectos/ValidarDatosBeneficiaroClabeBancaria.md",
+    "Udemy",
     "Procesar/Proyectos/DepuradorBuzonSAR.md",
     "Bitacora/2025-08-26.md",
     "Bitacora/2025-08-25.md",
-    "Procesar/Proyectos/TraspasoSeparacionCuentasSexoNoBinario.md",
-    "Procesar/Proyectos/AccesarSexoNoBinarioAzteca.md",
     "Procesar/Proyectos/RetiroAV.md",
     "Procesar/Healt Coach.md",
-    "Procesar/Kanban.md",
     "Proceso Proyectos.md",
     "Proyectos.md",
     "README.md",
@@ -217,15 +220,12 @@
     "Procedimiento de gestión de riesgos - Mitigación.md",
     "Procedimiento de gestión de riesgos - Identificación.md",
     "Procedimiento de gestión de riesgos - Evaluación de riesgos.md",
-    "Procedimiento de gestión de riesgos - Comunicación.md",
-    "Pasos para actualizar un backlog priorizado del producto con los riesgos identificados.md",
-    "Justificación del negocio - Entrega basada en valor.md",
     "Proyectos",
     "Desarrollo",
     "Sin título.canvas",
     "Untitled.base",
     "Bitacora",
     "TDAH Udemy/Untitled",
-    "TDAH Udemy"
+    "Udemy/TDAH"
   ]
 }

@@ -26,17 +26,17 @@ kanban-plugin: board
 
 ## Producción
 
-- [ ] [[Modalidad40]]
+- [ ] [[ReporteModalidad40]]
 - [ ] [[ManejoImgBanorte]]
 - [ ] [[ManejoImgMultipart]]
-- [ ] [[StpValidarDatosBeneficiaroClabeBancaria]]
+- [ ] [[ValidarDatosBeneficiaroClabeBancaria]]
 - [ ] [[RetiroAV]]
 - [ ] [[DepuradorBuzonSAR]]
-- [ ] [[AccesarBanamexCambioLogo]]
-- [ ] [[AccesarSexoNoBinarioAzteca]]
-- [ ] [[TraspasoSeparacionCuentasSexoNoBinario]]
+- [ ] [[BanamexCambioLogo]]
+- [ ] [[SexoNoBinarioAzteca]]
+- [ ] [[TraspasoSeparacionCuentas]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
-- [ ] [[AccesarAztecaBajaUsuariosReenvioCredenciales]]
+- [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
 
 
 ## Reasignado
