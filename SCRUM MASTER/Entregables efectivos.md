@@ -1,1 +1,0 @@
-El proceso de crear el [[Backlog priorizado del producto]] y las revisiones periódicas después de la creación de entregables aseguran entregas eficientes al cliente.

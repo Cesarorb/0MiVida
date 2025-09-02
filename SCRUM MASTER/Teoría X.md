@@ -1,1 +1,0 @@
-En la Teoría X, los líderes asumen que los empleados están inherentemente desmotivados y evitarán el trabajo si es posible, lo cual justifica un estilo autoritario de gestión.

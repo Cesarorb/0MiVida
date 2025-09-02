@@ -1,1 +1,0 @@
-Sucede cuando un equipo trabaja en con junto para aprovechar el aporte de cada uno y producir algo mas grande.

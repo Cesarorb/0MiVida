@@ -1,1 +1,0 @@
-Los productos de Scrum están diseñados para que las personas involucradas puedan trabajar a un ritmo sostenido al que pueden,  en teoría, continuar en forma indefinida.

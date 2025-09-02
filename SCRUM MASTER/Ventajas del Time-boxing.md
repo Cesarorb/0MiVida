@@ -1,5 +1,0 @@
-- Proceso de desarrollo eficiente
-- Menos gastos generales
-- Alta velocidad para los equipo
-- Equipos mas enfocados
-- Mejor preparación de los miembros del equipo

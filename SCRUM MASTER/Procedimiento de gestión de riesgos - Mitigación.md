@@ -1,5 +1,0 @@
-- La respuesta a cada riesgo dependerá de la probabilidad y el impacto del mismo.
-- Un riesgo identificado al inicio del proyecto se debe mitigar durante los primeros [[Sprint]], mediante tareas especificas, mientras que los que se presenten durante el proyecto deben ser ser atendidos de forma inmediata.
-- En la mayoría de los casos, las respuestas son proactivas o reactivas.
-- Para riesgos específicos de alto impacto y baja o media probabilidad, se puede formular un plan de mitigación como una alternativa, en caso de que pudiera materializarse; en este caso, el plan sería una respuesta reactiva.
-- Si el riesgo no es de alta afectación, se pueden aceptar (**apetito de riesgo**), como una respuesta que no es ni preventiva ni reactiva.

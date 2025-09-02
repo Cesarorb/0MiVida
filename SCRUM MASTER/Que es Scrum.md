@@ -1,5 +1,0 @@
-- Scrum es uno de los métodos ágiles mas populares. Es un trabajo adaptable, iterativo, rápido, flexible y eficaz, diseñado para ofrecer valor considerable en forma rápida a lo largo del proyecto.
-- Scrum garantiza transparencia en la comunicación y crea un ambiente considerable en forma rápida a lo largo del proyecto.
-- Scrum garantiza transparencia en la comunicación y crea un ambiente de responsabilidad colectiva y de progreso continuo.
-- El marco de trabajo de SCRUM, tal como se define en la Guía del SBOK, es compatible con el desarrollo de productos y servicios en todo tipo de industrias y en cualquier proyecto, independientemente de su complejidad.
-- Una fortaleza clave de SCRUM radica en el uso de equipos multi disciplinarios, autoorganizados y empoderados que dividen su trabajo en ciclos de trabajo cortos y concentrados llamados Srpint.

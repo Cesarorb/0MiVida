@@ -8,37 +8,44 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Proyectos  ",
+      "query": "path:\"Procesar/SCRUM MASTER\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 255
       }
     },
     {
-      "query": "path:\"TDAH Udemy\"  ",
+      "query": "path:Procesar/Proyectos  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Udemy/TDAH  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     },
     {
       "query": "path:Bitacora  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00155925155925,
-  "lineSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.9655560456566492,
   "close": true
 }

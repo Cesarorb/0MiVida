@@ -1,1 +1,0 @@
-- Son grupos internos o externos que apoyan o se ven afectados por el proyecto de [[SCRUM]], por ejemplo capacitación, logística, publicidad, finanzas, infraestructura, entre otros.

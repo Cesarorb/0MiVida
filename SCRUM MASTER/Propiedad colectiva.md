@@ -1,1 +1,0 @@
-El proceso de *Comprometer historias de usuario* permite a los miembros del equipo asumir la propiedad del proyecto, resultando en una mejor calidad.

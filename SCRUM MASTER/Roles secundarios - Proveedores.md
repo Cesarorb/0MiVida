@@ -1,1 +1,0 @@
-- Los proveedores incluyen a individuos u organizaciones externas que ofrecen productos o servicios que no están dentro de las competencias básicas de la organización del proyecto.
