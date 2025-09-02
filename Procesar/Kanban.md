@@ -26,22 +26,7 @@ kanban-plugin: board
 
 ## Producción
 
-- [ ] [[ManejoImgBanorte]]
-- [ ] [[ManejoImgMultipart]]
-- [ ] [[ValidarDatosBeneficiaroClabeBancaria]]
-- [ ] [[RetiroAV]]
-- [ ] [[DepuradorBuzonSAR]]
-- [ ] [[BanamexCambioLogo]]
-- [ ] [[SexoNoBinarioAzteca]]
-- [ ] [[TraspasoSeparacionCuentas]]
-- [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
-- [ ] [[ReporteModalidad40]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
-
-
-## Reasignado
-
-- [ ] [[AccesarReagendarCancelarCita]]
 
 
 ## SIQA
@@ -50,12 +35,31 @@ kanban-plugin: board
 
 ## Terminado
 
+- [ ] [[ReporteModalidad40]]
+- [ ] [[ManejoImgBanorte]]
+- [ ] [[ManejoImgMultipart]]
+- [ ] [[RetiroAV]]
+- [ ] [[ValidarDatosBeneficiaroClabeBancaria]]
+- [ ] [[DepuradorBuzonSAR]]
+- [ ] [[BanamexCambioLogo]]
+- [ ] [[SexoNoBinarioAzteca]]
+- [ ] [[TraspasoSeparacionCuentas]]
+- [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
+
+
+## Reasignado
+
+- [ ] [[AccesarReagendarCancelarCita]]
+
+
+## Archive
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,true,false,false],"show-checkboxes":true}
 ```
 %%
