@@ -1,1 +1,0 @@
-Crear #entidad de mapeo, los #repositorio y metodos de guardado para las tablas correspondientes.

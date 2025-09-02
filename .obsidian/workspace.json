@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ceec9750ae482627",
+        "id": "f2b2a8dd6ab67331",
         "type": "tabs",
         "children": [
           {
-            "id": "deb8d1de7721cbdb",
+            "id": "057fad5d2d10ab6b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Procesar/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    false,
-                    true,
-                    false,
-                    false
-                  ]
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -65,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#formato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 331.5
   },
   "right": {
     "id": "a86b461bad0e61d4",
@@ -193,41 +191,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "deb8d1de7721cbdb",
+  "active": "4ce0d50174bfcd67",
   "lastOpenFiles": [
+    "Udemy/TDAH/1 El TDAH como trastorno neurobiológico.md",
+    "Udemy/TDAH/2 El TDAH como trastorno de las funciones ejecutivas.md",
     "Udemy/JS.md",
-    "Udemy/Batch.md",
+    "Udemy/TDAH",
     "Udemy/Java.md",
-    "Procesar/Proceso Proyectos.md",
-    "Procesar/Proyectos/NotificacionDetalleInformacionGenerica.md",
-    "Procesar/Proyectos/Proyectos.md",
-    "Procesar/Kanban.md",
-    "Procesar/Proyectos/ReporteModalidad40.md",
-    "Procesar/Proyectos/AztecaBajaUsuariosReenvioCredenciales.md",
+    "Udemy/Batch.md",
+    "Udemy",
+    "Procesar/Proyectos/ValidarDatosBeneficiaroClabeBancaria.md",
     "Procesar/Proyectos/TraspasoSeparacionCuentas.md",
     "Procesar/Proyectos/SexoNoBinarioAzteca.md",
+    "Procesar/Proyectos/ReporteModalidad40.md",
     "Procesar/Proyectos/BanamexCambioLogo.md",
-    "Procesar/Proyectos/ValidarDatosBeneficiaroClabeBancaria.md",
-    "Udemy",
-    "Procesar/Proyectos/DepuradorBuzonSAR.md",
-    "Bitacora/2025-08-26.md",
-    "Bitacora/2025-08-25.md",
-    "Procesar/Proyectos/RetiroAV.md",
-    "Procesar/Healt Coach.md",
-    "Proceso Proyectos.md",
-    "Proyectos.md",
-    "README.md",
+    "Procesar/Proyectos/AztecaBajaUsuariosReenvioCredenciales.md",
+    "Lista de Tareas.md",
+    "Cosas médicas.md",
     "Weekly Gerencia.md",
+    "README.md",
     "Roles secundarios - Servicios de apoyo.md",
     "Roles secundarios - Scrum Guidance Body.md",
     "Roles secundarios - Proveedores.md",
     "Roles secundarios - Interesados del negocio.md",
+    "Proyectos.md",
+    "Proceso Proyectos.md",
+    "Bienvenido.md",
+    "Proceso de priorización de riesgos.md",
+    "Procedimiento de gestión de riesgos - Priorización.md",
+    "Procedimiento de gestión de riesgos - Mitigación.md",
+    "Procedimiento de gestión de riesgos - Identificación.md",
     "Proyectos",
     "Desarrollo",
     "Sin título.canvas",
     "Untitled.base",
     "Bitacora",
     "TDAH Udemy/Untitled",
-    "Udemy/TDAH"
+    "TDAH Udemy"
   ]
 }

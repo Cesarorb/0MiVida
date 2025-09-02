@@ -1,1 +1,0 @@
-Actualizar la Fecha de Control del servicio de manejo de imagenes de Banorte para registrar Fecha y Hora

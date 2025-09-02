@@ -1,1 +1,0 @@
-Agregar las funciones de reagendar y cancelar para las citas de Afore Coppel
