@@ -1,5 +1,9 @@
 [
   "mermaid-tools",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "heatmap-calendar",
+  "markwhen",
+  "time-ruler",
+  "obsidian-full-calendar"
 ]
