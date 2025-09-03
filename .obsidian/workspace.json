@@ -4,31 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b2a8dd6ab67331",
+        "id": "37cf8509f717bbb8",
         "type": "tabs",
         "children": [
           {
-            "id": "057fad5d2d10ab6b",
+            "id": "eb05133096d7c3f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Kanban - NotificacionDetalleInformacionGenerica.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
                 }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-trello",
+              "title": "Kanban - NotificacionDetalleInformacionGenerica"
             }
           }
         ]
@@ -63,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#formato",
+                "query": "alpra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +184,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ce0d50174bfcd67",
+  "active": "eb05133096d7c3f2",
   "lastOpenFiles": [
+    "Procesar/Proyectos/NotificacionDetalleInformacionGenerica.md",
+    "Procesar/Kanban.md",
+    "Kanban - NotificacionDetalleInformacionGenerica.md",
+    "Sin nombre",
+    "Procesar/Proyectos/ReporteModalidad40.md",
+    "Cosas médicas.md",
+    "Lista de Tareas.md",
+    "GYM/Abdomen.md",
+    "Procesar/Proyectos/TraspasoSeparacionCuentas.md",
+    "2025-09-02.md",
+    "Bitacora/2025-09-01.md",
+    "GYM",
+    "GYM/Tren superior.md",
+    "GYM.md",
+    "Procesar/Proceso Proyectos.md",
+    "Procesar/Proyectos/DepuradorBuzonSAR.md",
+    "Bitacora/2025-08-25.md",
+    "README.md",
     "Udemy/TDAH/1 El TDAH como trastorno neurobiológico.md",
     "Udemy/TDAH/2 El TDAH como trastorno de las funciones ejecutivas.md",
     "Udemy/JS.md",
@@ -201,26 +212,9 @@
     "Udemy/Batch.md",
     "Udemy",
     "Procesar/Proyectos/ValidarDatosBeneficiaroClabeBancaria.md",
-    "Procesar/Proyectos/TraspasoSeparacionCuentas.md",
     "Procesar/Proyectos/SexoNoBinarioAzteca.md",
-    "Procesar/Proyectos/ReporteModalidad40.md",
     "Procesar/Proyectos/BanamexCambioLogo.md",
     "Procesar/Proyectos/AztecaBajaUsuariosReenvioCredenciales.md",
-    "Lista de Tareas.md",
-    "Cosas médicas.md",
-    "Weekly Gerencia.md",
-    "README.md",
-    "Roles secundarios - Servicios de apoyo.md",
-    "Roles secundarios - Scrum Guidance Body.md",
-    "Roles secundarios - Proveedores.md",
-    "Roles secundarios - Interesados del negocio.md",
-    "Proyectos.md",
-    "Proceso Proyectos.md",
-    "Bienvenido.md",
-    "Proceso de priorización de riesgos.md",
-    "Procedimiento de gestión de riesgos - Priorización.md",
-    "Procedimiento de gestión de riesgos - Mitigación.md",
-    "Procedimiento de gestión de riesgos - Identificación.md",
     "Proyectos",
     "Desarrollo",
     "Sin título.canvas",

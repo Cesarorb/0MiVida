@@ -5,3 +5,6 @@
 NOTAS:
 Resumir los set de llenarEntrada
 Información de las validaciones T/F
+
+---
+![[Kanban - NotificacionDetalleInformacionGenerica]]

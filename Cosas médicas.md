@@ -13,4 +13,4 @@ Alta en el seguro del IMSS
 - como eres trabajador puedes asegurar a tus papás también
 - Debes ir a tu unidad de medicina familiar que te quede más cercana de donde estás viviendo actualmente.
 
-Comprar mas Alprazolam
+- [x] Comprar mas Alprazolam ✅ 2025-09-02
