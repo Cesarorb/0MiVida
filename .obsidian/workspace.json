@@ -11,16 +11,24 @@
             "id": "eb05133096d7c3f2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban - NotificacionDetalleInformacionGenerica.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
+                "file": "GYM/Abdomen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Kanban - NotificacionDetalleInformacionGenerica"
+              "icon": "lucide-file",
+              "title": "Abdomen"
             }
           }
         ]
@@ -186,9 +194,10 @@
   },
   "active": "eb05133096d7c3f2",
   "lastOpenFiles": [
+    "GYM/Tren superior.md",
+    "Kanban - NotificacionDetalleInformacionGenerica.md",
     "Procesar/Proyectos/NotificacionDetalleInformacionGenerica.md",
     "Procesar/Kanban.md",
-    "Kanban - NotificacionDetalleInformacionGenerica.md",
     "Sin nombre",
     "Procesar/Proyectos/ReporteModalidad40.md",
     "Cosas médicas.md",
@@ -198,7 +207,6 @@
     "2025-09-02.md",
     "Bitacora/2025-09-01.md",
     "GYM",
-    "GYM/Tren superior.md",
     "GYM.md",
     "Procesar/Proceso Proyectos.md",
     "Procesar/Proyectos/DepuradorBuzonSAR.md",
