@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b63004af5a1bdb64",
+        "id": "39ae6873c4df0ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "04c3f6b40291c447",
+            "id": "b56c94e127b445aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VerificadorEmail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "VerificadorEmail"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VerificadorEmail.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de VerificadorEmail"
             }
           },
           {
@@ -180,44 +194,44 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "64f909e919b63be5",
+  "active": "b56c94e127b445aa",
   "lastOpenFiles": [
-    "Bitacora/2025-09-02.md",
+    "Bitacora/2025-12-01.md",
+    "Logs/5Error.md",
+    "Logs/Log Levels.md",
+    "Logs/1Trace.md",
+    "Bitacora/2025-08-27.md",
     "Bitacora/2025-08-26.md",
+    "Bitacora/2025-08-25.md",
+    "Bitacora/2025-08-28.md",
+    "Bitacora/2025-08-29.md",
+    "Bitacora/2025-08-30.md",
+    "Bitacora/2025-08-31.md",
+    "Bitacora/2025-09-01.md",
+    "Bitacora/2025-09-02.md",
+    "Bitacora/2025-11-28.md",
+    "VerificadorEmail.md",
+    "MillionVerifier.md",
+    "Logs/2Debug.md",
+    "Logs/4Warn.md",
+    "Logs/3Info.md",
+    "Logs",
+    "Nueva carpeta",
+    "Bitacora/4Warn.md",
+    "Bitacora/3Info.md",
+    "Bitacora/2Debug.md",
+    "Bitacora/1Trace.md",
+    "Bitacora/5Error.md",
     "Lista de Tareas.md",
     "GYM/Abdomen.md",
     "Markwhen/Markwhen 9-3-2025 17.48.23.mw",
     "Markwhen",
-    "GYM/Tren superior.md",
-    "Kanban - NotificacionDetalleInformacionGenerica.md",
-    "Procesar/Proyectos/NotificacionDetalleInformacionGenerica.md",
-    "Procesar/Kanban.md",
     "Sin nombre",
-    "Procesar/Proyectos/ReporteModalidad40.md",
-    "Cosas médicas.md",
-    "Procesar/Proyectos/TraspasoSeparacionCuentas.md",
-    "Bitacora/2025-09-01.md",
     "GYM",
-    "GYM.md",
-    "Procesar/Proceso Proyectos.md",
-    "Procesar/Proyectos/DepuradorBuzonSAR.md",
-    "Bitacora/2025-08-25.md",
-    "README.md",
-    "Udemy/TDAH/1 El TDAH como trastorno neurobiológico.md",
-    "Udemy/TDAH/2 El TDAH como trastorno de las funciones ejecutivas.md",
-    "Udemy/JS.md",
     "Udemy/TDAH",
-    "Udemy/Java.md",
-    "Udemy/Batch.md",
     "Udemy",
-    "Procesar/Proyectos/ValidarDatosBeneficiaroClabeBancaria.md",
-    "Procesar/Proyectos/SexoNoBinarioAzteca.md",
-    "Procesar/Proyectos/BanamexCambioLogo.md",
-    "Procesar/Proyectos/AztecaBajaUsuariosReenvioCredenciales.md",
     "Proyectos",
     "Desarrollo",
-    "Sin título.canvas",
-    "Untitled.base",
-    "Bitacora"
+    "Sin título.canvas"
   ]
 }

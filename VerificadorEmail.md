@@ -1,0 +1,1 @@
+Verificar los casos de rechazo de [[MillionVerifier]] para validación de correo electrónico
