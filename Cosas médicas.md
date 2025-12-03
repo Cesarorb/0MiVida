@@ -1,9 +1,9 @@
-Psicólogo - Diagnóstico de TDA/H
-Neurólogo - Llevar papel del TDA para revisar medicación
-Alergólogo - Alergia a los AINES
-Fisioterapeuta/Traumatólogo - Desbalance de lado izquierdo y derecho
-Polisomnografía - Problema de insomnio, apnea del sueño
-Electroencefalograma - Psicólogo
+- [x] Psicólogo - Diagnóstico de TDA/H ✅ 2025-12-03
+- [ ] Neurólogo - Llevar papel del TDA para revisar medicación
+- [ ] Alergólogo - Alergia a los AINES
+- [x] Fisioterapeuta/Traumatólogo - Desbalance de lado izquierdo y derecho ✅ 2025-12-03
+- [ ] Polisomnografía - Problema de insomnio, apnea del sueño
+- [ ] Electroencefalograma - Psicólogo
 
 Alta en el seguro del IMSS
 - Copia de acta de nacimiento
@@ -13,4 +13,4 @@ Alta en el seguro del IMSS
 - como eres trabajador puedes asegurar a tus papás también
 - Debes ir a tu unidad de medicina familiar que te quede más cercana de donde estás viviendo actualmente.
 
-- [x] Comprar mas Alprazolam ✅ 2025-09-02
+- [x] Comprar mas Alprazolam ✅ [[2025-09-02]]

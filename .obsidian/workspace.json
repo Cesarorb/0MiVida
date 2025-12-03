@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39ae6873c4df0ecd",
+        "id": "f7199387b29697bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b56c94e127b445aa",
+            "id": "943d4b70a54a2349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VerificadorEmail.md",
+                "file": "Bitacora/2025-12-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VerificadorEmail"
+              "title": "2025-12-03"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VerificadorEmail.md",
-                "followCursor": false,
-                "showSearch": true,
+                "file": "Bitacora/2025-12-03.md",
+                "followCursor": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de VerificadorEmail"
+              "title": "Esquema de 2025-12-03"
             }
           },
           {
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,44 +194,44 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b56c94e127b445aa",
+  "active": "943d4b70a54a2349",
   "lastOpenFiles": [
+    "Temas/Formas de skip test.md",
+    "Bitacora/2025-12-03.md",
+    "Temas/Comandos principales de Maven.md",
+    "Temas/-DskipTests.md",
+    "Temas/-Dmaven.test.skip=true.md",
+    "Bitacora/09Sep/2025-09-01.md",
+    "Procesar/Healt Coach.md",
+    "Procesar/Kanban.md",
+    "Temas/Udemy/TDAH/2 El TDAH como trastorno de las funciones ejecutivas.md",
+    "Temas",
+    "Temas/Udemy/TDAH/1 El TDAH como trastorno neurobiológico.md",
+    "Temas/Udemy/JS.md",
+    "Temas/Udemy/Java.md",
+    "GYM/Pierna.md",
     "Bitacora/2025-12-01.md",
-    "Logs/5Error.md",
-    "Logs/Log Levels.md",
-    "Logs/1Trace.md",
-    "Bitacora/2025-08-27.md",
-    "Bitacora/2025-08-26.md",
-    "Bitacora/2025-08-25.md",
-    "Bitacora/2025-08-28.md",
-    "Bitacora/2025-08-29.md",
-    "Bitacora/2025-08-30.md",
-    "Bitacora/2025-08-31.md",
-    "Bitacora/2025-09-01.md",
-    "Bitacora/2025-09-02.md",
-    "Bitacora/2025-11-28.md",
-    "VerificadorEmail.md",
-    "MillionVerifier.md",
-    "Logs/2Debug.md",
-    "Logs/4Warn.md",
-    "Logs/3Info.md",
-    "Logs",
-    "Nueva carpeta",
-    "Bitacora/4Warn.md",
-    "Bitacora/3Info.md",
-    "Bitacora/2Debug.md",
-    "Bitacora/1Trace.md",
-    "Bitacora/5Error.md",
+    "Bitacora/11Nov/2025-11-28.md",
+    "Bitacora/09Sep/2025-09-02.md",
+    "Bitacora/08Ago/2025-08-31.md",
+    "Bitacora/08Ago/2025-08-30.md",
+    "Bitacora/08Ago/2025-08-29.md",
+    "Bitacora/08Ago/2025-08-28.md",
+    "Bitacora/08Ago/2025-08-27.md",
+    "Bitacora/08Ago/2025-08-26.md",
+    "Bitacora/08Ago/2025-08-25.md",
     "Lista de Tareas.md",
-    "GYM/Abdomen.md",
+    "2025-12-03.md",
+    "Procesar/SCRUM MASTER/Principal/SCRUM.md",
+    "Bitacora/11Nov",
+    "Bitacora/09Sep",
+    "Bitacora/08Ago",
+    "Temas/Logs",
+    "Nueva carpeta",
     "Markwhen/Markwhen 9-3-2025 17.48.23.mw",
     "Markwhen",
-    "Sin nombre",
     "GYM",
-    "Udemy/TDAH",
-    "Udemy",
-    "Proyectos",
-    "Desarrollo",
+    "Temas/Udemy/TDAH",
     "Sin título.canvas"
   ]
 }

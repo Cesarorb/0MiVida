@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: table
 ---
 
 ## Analisis
@@ -18,6 +16,7 @@ kanban-plugin: board
 
 ## Pruebas Unitarias
 
+- [ ] [[VerificadorEmail]]
 
 
 ## Preproducción
@@ -26,7 +25,6 @@ kanban-plugin: board
 
 ## Producción
 
-- [ ] [[NotificacionDetalleInformacionGenerica]]
 
 
 ## SIQA
@@ -45,6 +43,7 @@ kanban-plugin: board
 - [ ] [[SexoNoBinarioAzteca]]
 - [ ] [[TraspasoSeparacionCuentas]]
 - [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
+- [ ] [[NotificacionDetalleInformacionGenerica]]
 
 
 ## Reasignado
@@ -60,6 +59,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,true,true,false,true],"show-checkboxes":true}
 ```
 %%
