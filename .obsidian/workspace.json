@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitacora/2025-12-03.md",
+                "file": "Temas/TDAH/Hábitos japoneses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-03"
+              "title": "Hábitos japoneses"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bitacora/2025-12-03.md",
+                "file": "Temas/TDAH/Hábitos japoneses.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2025-12-03"
+              "title": "Esquema de Hábitos japoneses"
             }
           },
           {
@@ -196,8 +196,19 @@
   },
   "active": "943d4b70a54a2349",
   "lastOpenFiles": [
-    "Temas/Formas de skip test.md",
+    "Temas/TDAH/Resumen TDAH.md",
+    "Temas/Udemy/Java.md",
+    "Temas/Udemy/Batch.md",
+    "Temas/TDAH/Hábitos japoneses.md",
+    "Temas/Neurofocus/Modulo1 - Activa tu supercerebro/Capitulo3 - Crear memoria fuerte.md",
+    "Temas/TDAH",
+    "Temas/Neurofocus/Modulo1 - Activa tu supercerebro/Capitulo2 - Preparar el terreno.md",
+    "Temas/Neurofocus/Modulo1 - Activa tu supercerebro/Capitulo1.md",
+    "Temas/Neurofocus/Modulo1 - Activa tu supercerebro",
     "Bitacora/2025-12-03.md",
+    "Temas/Neurofocus/Modulo1 - Activa tu supercerebro",
+    "Temas/Neurofocus",
+    "Temas/Formas de skip test.md",
     "Temas/Comandos principales de Maven.md",
     "Temas/-DskipTests.md",
     "Temas/-Dmaven.test.skip=true.md",
@@ -208,7 +219,6 @@
     "Temas",
     "Temas/Udemy/TDAH/1 El TDAH como trastorno neurobiológico.md",
     "Temas/Udemy/JS.md",
-    "Temas/Udemy/Java.md",
     "GYM/Pierna.md",
     "Bitacora/2025-12-01.md",
     "Bitacora/11Nov/2025-11-28.md",
@@ -217,21 +227,11 @@
     "Bitacora/08Ago/2025-08-30.md",
     "Bitacora/08Ago/2025-08-29.md",
     "Bitacora/08Ago/2025-08-28.md",
-    "Bitacora/08Ago/2025-08-27.md",
-    "Bitacora/08Ago/2025-08-26.md",
-    "Bitacora/08Ago/2025-08-25.md",
-    "Lista de Tareas.md",
-    "2025-12-03.md",
-    "Procesar/SCRUM MASTER/Principal/SCRUM.md",
     "Bitacora/11Nov",
     "Bitacora/09Sep",
     "Bitacora/08Ago",
     "Temas/Logs",
     "Nueva carpeta",
-    "Markwhen/Markwhen 9-3-2025 17.48.23.mw",
-    "Markwhen",
-    "GYM",
-    "Temas/Udemy/TDAH",
     "Sin título.canvas"
   ]
 }
