@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Procesar/SCRUM MASTER\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
       "query": "path:Procesar/Proyectos  ",
       "color": {
         "a": 1,
@@ -22,10 +15,17 @@
       }
     },
     {
-      "query": "path:Udemy/TDAH  ",
+      "query": "path:\"Procesar/SCRUM MASTER\"  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "file:Kanban",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930120585,
+  "scale": 0.1846232622585757,
   "close": true
 }

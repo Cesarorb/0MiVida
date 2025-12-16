@@ -15,9 +15,12 @@ flowchart TD
 ---
 - [ ] Entrega HU
 - [ ] Análisis HU
+	- [ ] NA
 	- [ ] Actualización HU
-- [ ] Descarga y despliegue
-	- [ ]  SVN, Bitbucket, Github
+- [ ] Descarga/Actualización y despliegue
+	- [ ] SVN
+	- [ ] Bitbucket
+	- [ ] Github
 - [ ]  Construcción
 	- [ ]  MD - Manual de Despliegue
 		- [ ]  Archivos estáticos
@@ -33,7 +36,7 @@ flowchart TD
 	- [ ]  Revisar Contexto - Revertir si es necesario
 	- [ ]  Solicitar Permiso - Grupo Despliegues
 	- [ ] Ticket
-- [ ]  Pruebas UAT
+- [ ]  Pruebas UAT (PRE)
 	- [ ] Solicitud de Pruebas
 - [ ]  Migración a Producción
 
