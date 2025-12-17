@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
 ## Analisis
@@ -22,11 +20,11 @@ kanban-plugin: board
 
 ## Preproducción
 
+- [ ] [[ValidacionRechazosCitasCoppel]]
 
 
 ## Producción
 
-- [ ] [[NotificacionDetalleInformacionGenerica]]
 
 
 ## SIQA
@@ -45,6 +43,7 @@ kanban-plugin: board
 - [ ] [[SexoNoBinarioAzteca]]
 - [ ] [[TraspasoSeparacionCuentas]]
 - [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
+- [ ] [[NotificacionDetalleInformacionGenerica]]
 
 
 ## Reasignado
@@ -60,6 +59,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,false,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":true}
 ```
 %%

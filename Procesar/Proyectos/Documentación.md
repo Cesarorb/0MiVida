@@ -1,0 +1,4 @@
+- [ ] DT - Diseño Técnico
+- [ ] MD - Manual de Despliegue
+- [ ] PU - Pruebas Unitarias
+	- [ ] Cobertura 90% min

@@ -1,0 +1,1 @@
+# ![[Definicion de continudad del negocio y sus objetivos]]

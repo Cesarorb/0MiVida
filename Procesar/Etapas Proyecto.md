@@ -1,0 +1,26 @@
+- [ ] Entrega HU
+- [ ] Análisis HU
+	- [ ] NA
+	- [ ] Actualización HU
+- [ ] Descarga/Actualización y despliegue
+	- [ ] SVN
+	- [ ] Bitbucket
+	- [ ] Github
+- [ ]  Construcción
+	- [ ]  MD - Manual de Despliegue
+		- [ ]  Archivos estáticos
+		- [ ] Properties
+	- [ ]  DT - Diseño Técnico
+		- [ ]  Reglas de negocio
+- [ ]  Pruebas DEV
+	- [ ]  PU - Pruebas Unitarias
+		- [ ]  Evidencia de Pruebas
+- [ ]  Pruebas JUnit
+	- [ ]  Cobertura Min 90%
+- [ ]  Migración a PRE
+	- [ ]  Revisar Contexto - Revertir si es necesario
+	- [ ]  Solicitar Permiso - Grupo Despliegues
+	- [ ] Ticket
+- [ ]  Pruebas UAT (PRE)
+	- [ ] Solicitud de Pruebas
+- [ ]  Migración a Producción
