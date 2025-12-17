@@ -18,14 +18,14 @@ PCP: 150981
 		- [x] Properties ✅ 2025-12-15
 	- [ ]  DT - Diseño Técnico
 		- [ ]  Reglas de negocio
-- [ ]  Pruebas DEV
-	- [ ]  PU - Pruebas Unitarias
-		- [ ]  Evidencia de Pruebas
+- [x] Pruebas DEV ✅ 2025-12-16
+	- [x] PU - Pruebas Unitarias ✅ 2025-12-16
+		- [x] Evidencia de Pruebas ✅ 2025-12-16
 - [ ]  Pruebas JUnit
 	- [ ]  Cobertura Min 90%
-- [ ]  Migración a PRE
+- [x] Migración a PRE ✅ 2025-12-16
 	- [ ]  Revisar Contexto - Revertir si es necesario
-	- [ ]  Solicitar Permiso - Grupo Despliegues
+	- [x] Solicitar Permiso - Grupo Despliegues ✅ 2025-12-16
 	- [ ] Ticket
 - [ ]  Pruebas UAT (PRE)
 	- [ ] Solicitud de Pruebas
@@ -35,10 +35,12 @@ DT - Diseño Técnico
 - [ ] NA
 - [ ] Creado
 - [ ] Versionado
+
 MD - Manual de Despliegue
 - [ ] NA
-- [ ] Creado
-- [ ] Versionado
+- [x] Creado ✅ 2025-12-16
+	- [x] Versionado ✅ 2025-12-16
+
 PU - Pruebas Unitarias
-- [ ] Creado
-- [ ] Versionado
+- [x] Creado ✅ 2025-12-16
+	- [x] Versionado ✅ 2025-12-16
