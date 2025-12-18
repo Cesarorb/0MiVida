@@ -1,5 +1,5 @@
 ---
-kanban-plugin: table
+kanban-plugin: list
 ---
 
 ## Analisis
@@ -16,11 +16,11 @@ kanban-plugin: table
 
 ## Pruebas Unitarias
 
-- [ ] [[VerificadorEmail]]
 
 
 ## Preproducción
 
+- [ ] [[ValidacionRechazosCitasCoppel]]
 
 
 ## Producción
@@ -59,6 +59,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":true}
 ```
 %%

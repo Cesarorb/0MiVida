@@ -1,19 +1,12 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:\"Procesar/SCRUM MASTER\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
     {
       "query": "path:Procesar/Proyectos  ",
       "color": {
@@ -22,10 +15,17 @@
       }
     },
     {
-      "query": "path:Udemy/TDAH  ",
+      "query": "path:\"Procesar/SCRUM MASTER\"  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "file:Kanban",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
       }
     },
     {
@@ -33,6 +33,27 @@
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Psico/Anécdotas  ",
+      "color": {
+        "a": 1,
+        "rgb": 13331710
+      }
+    },
+    {
+      "query": "path:Psico/Tareas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "file:Anecdotas Psico",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930120585,
-  "close": true
+  "scale": 0.25883865621815116,
+  "close": false
 }
