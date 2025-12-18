@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Procesar/Proyectos  ",
@@ -34,6 +34,27 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:Psico/Anécdotas  ",
+      "color": {
+        "a": 1,
+        "rgb": 13331710
+      }
+    },
+    {
+      "query": "path:Psico/Tareas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "file:Anecdotas Psico",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977760573,
-  "close": true
+  "scale": 0.25883865621815116,
+  "close": false
 }
