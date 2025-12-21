@@ -10,4 +10,22 @@
 3
 4 domingo regreso a CDMX
 
+Pantalon puesto y otro mas
+1 puesta y 4 playeras una de pijama
+ropa interior 1 puesto y llevo 4
+calcetines
+cepillo de dientes
+cepillo de cabello
+shampoo
+estropajo
+bloqueador
+azul
+---
+ lap
+ropa
+
+negra
+---
+cables
+
 [^1]: Pedí del 29 al 31
