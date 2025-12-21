@@ -1,7 +1,7 @@
 RFC: WB00413
 PCP: 150981
 ## Descripción
-1. Verificar los casos de rechazo de [[MillionVerifier]] para validación de correo electrónico en Citas de AforeCoppel.
+1. Verificar los casos de rechazo de [[Procesar/Proyectos/MillionVerifier]] para validación de correo electrónico en Citas de AforeCoppel.
 2. Validar los casos de rechazo del servicio de validación interno
 3. Invocar el servicio interno de validación
 4. Agregar rechazo para la respuesta del validador
