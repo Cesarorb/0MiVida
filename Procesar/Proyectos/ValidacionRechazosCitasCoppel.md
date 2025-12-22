@@ -1,5 +1,9 @@
+Líder: #DavidBarbosa 
+Negocio: #YolandaOrozco 
+
 RFC: WB00413
 PCP: 150981
+JIRA: DDSS-145
 ## Descripción
 1. Verificar los casos de rechazo de [[Procesar/Proyectos/MillionVerifier]] para validación de correo electrónico en Citas de AforeCoppel.
 2. Validar los casos de rechazo del servicio de validación interno
@@ -8,6 +12,7 @@ PCP: 150981
 
 ## Etapas Proyecto
 - [ ] Entrega HU
+- [ ] Solicitar RFC y Branch
 - [ ] Análisis HU
 	- [ ] Actualización HU
 - [ ] Descarga/Actualización y despliegue
@@ -32,12 +37,10 @@ PCP: 150981
 - [ ]  Migración a Producción
 ## [[Documentación]]
 DT - Diseño Técnico
-- [ ] NA
 - [ ] Creado
 - [ ] Versionado
 
 MD - Manual de Despliegue
-- [ ] NA
 - [x] Creado ✅ 2025-12-16
 	- [x] Versionado ✅ 2025-12-16
 

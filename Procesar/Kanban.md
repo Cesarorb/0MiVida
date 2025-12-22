@@ -1,5 +1,7 @@
 ---
-kanban-plugin: list
+
+kanban-plugin: board
+
 ---
 
 ## Analisis
@@ -59,6 +61,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,false,true,true,true,true,true],"show-checkboxes":true}
 ```
 %%

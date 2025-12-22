@@ -1,6 +1,6 @@
 - [ ] Entrega HU
+- [ ] Solicitar RFC y Branch
 - [ ] Análisis HU
-	- [ ] NA
 	- [ ] Actualización HU
 - [ ] Descarga/Actualización y despliegue
 	- [ ] SVN
@@ -24,3 +24,16 @@
 - [ ]  Pruebas UAT (PRE)
 	- [ ] Solicitud de Pruebas
 - [ ]  Migración a Producción
+
+## [[Documentación]]
+DT - Diseño Técnico
+- [ ] Creado
+- [ ] Versionado
+
+MD - Manual de Despliegue
+- [ ] Creado
+	- [ ] Versionado
+
+PU - Pruebas Unitarias
+- [ ] Creado
+	- [ ] Versionado
