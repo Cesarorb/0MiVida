@@ -1,1 +1,1 @@
-# ![[Definicion de continudad del negocio y sus objetivos]]
+# ![[Procesar/Cursos/ISO 22301 - Gestión de la Continuidad del Negocio/Definición de continuidad del negocio y sus objetivos]]
