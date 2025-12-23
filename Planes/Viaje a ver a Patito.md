@@ -1,4 +1,4 @@
-- [ ] 📅 [[2025-12-22]] Procesar
+- [x] 📅 [[2025-12-22]] Procesar ✅ 2025-12-22
 - [ ] 📅 [[2025-12-23]] Martes. Procesar. TAPO. Volamos.
 - [ ] 📅 [[2025-12-24]] Miércoles (home) llegamos a Cancún a que trabaje, en al casa contratada
 - [ ] 📅 [[2025-12-25]] Jueves. Festivo
@@ -12,12 +12,14 @@
 - [ ] 📅 [[2026-01-02]] Viernes home
 - [ ] 📅 [[2026-01-03]] Sábado
 - [ ] 📅 [[2026-01-04]] Domingo. Regreso a CDMX
+
 Ropa
 --
-- [ ] Pantalón puesto y otro mas
-- [ ] 1 puesta y 4 playeras una de pijama
-- [ ] Ropa interior 1 puesto y llevo 4
-- [ ] Calcetines
+- [x] Pantalón puesto y otro mas ✅ 2025-12-22
+- [x] 1 puesta y 4 playeras ✅ 2025-12-22
+- [x] una pijama ✅ 2025-12-22
+- [x] Bóxer 1 puesto y llevo 4 ✅ 2025-12-22
+- [x] Calcetines 1 puesto llevo 4 ✅ 2025-12-22
 - [ ] Cepillo de dientes
 - [ ] Cepillo de cabello
 - [ ] Shampoo
