@@ -22,11 +22,7 @@ kanban-plugin: board
 
 ## Preproducción
 
-- [ ] [[ValidacionRechazosCitasCoppel]]
-
-
-## Producción
-
+- [ ] [[ExpiracionCitasCoppel]]
 
 
 ## SIQA
@@ -35,6 +31,7 @@ kanban-plugin: board
 
 ## Terminado
 
+- [ ] [[ValidacionRechazosCitasCoppel]]
 - [ ] [[ReporteModalidad40]]
 - [ ] [[ManejoImgBanorte]]
 - [ ] [[ManejoImgMultipart]]
@@ -46,6 +43,10 @@ kanban-plugin: board
 - [ ] [[TraspasoSeparacionCuentas]]
 - [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
+
+
+## Producción
+
 
 
 ## Reasignado
@@ -61,6 +62,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,false,true,true,true,true,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true}
 ```
 %%

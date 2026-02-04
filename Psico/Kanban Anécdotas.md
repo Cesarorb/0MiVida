@@ -6,18 +6,18 @@ kanban-plugin: board
 
 ## PENDIENTE
 
-- [ ] [[Proce-lebración]]
-- [ ] [[Persecución del camión]]
-- [ ] [[La iglesia de Josué]]
 
 
 ## ACTUALES
 
-- [ ] [[Las pastillas que tomo]]
 
 
 ## CONTADAS
 
+- [ ] [[Las pastillas que tomo]]
+- [ ] [[La iglesia de Josué]]
+- [ ] [[Persecución del camión]]
+- [ ] [[Proce-lebración]]
 - [ ] [[Comida de la dirección]]
 
 
@@ -25,6 +25,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
