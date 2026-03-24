@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## Construcción
 
+- [ ] NotificacionTramiteCorreoTrabajador
 
 
 ## Pruebas Unitarias
@@ -22,7 +23,6 @@ kanban-plugin: board
 
 ## Preproducción
 
-- [ ] [[ExpiracionCitasCoppel]]
 
 
 ## SIQA
@@ -43,6 +43,7 @@ kanban-plugin: board
 - [ ] [[TraspasoSeparacionCuentas]]
 - [ ] [[AztecaBajaUsuariosReenvioCredenciales]]
 - [ ] [[NotificacionDetalleInformacionGenerica]]
+- [ ] [[ExpiracionCitasCoppel]]
 
 
 ## Producción
@@ -51,7 +52,7 @@ kanban-plugin: board
 
 ## Reasignado
 
-- [ ] [[AccesarReagendarCancelarCita]]
+- [ ] [[ReagendarCancelarCitaCoppel]]
 
 
 ## Archive
@@ -62,6 +63,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,true,true,true,true,true],"show-checkboxes":true}
 ```
 %%
