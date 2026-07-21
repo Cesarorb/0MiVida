@@ -14,9 +14,9 @@ kanban-plugin: board
 
 ## Construcción
 
-- [ ] [[GeneradorConstanciaUnificacion]]
+- [ ] [[BatchGeneradorConstanciaUnificacion]]
 - [ ] [[BatchEnvioCorreoRecepcionRechazoComparador]]
-- [ ] EnvioCorreoGenerico
+- [ ] [[EnvioCorreoGenerico]]
 
 
 ## Pruebas Unitarias
