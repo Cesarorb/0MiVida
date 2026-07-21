@@ -14,7 +14,9 @@ kanban-plugin: board
 
 ## Construcción
 
-- [ ] NotificacionTramiteCorreoTrabajador
+- [ ] [[GeneradorConstanciaUnificacion]]
+- [ ] [[BatchEnvioCorreoRecepcionRechazoComparador]]
+- [ ] EnvioCorreoGenerico
 
 
 ## Pruebas Unitarias
@@ -63,6 +65,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,true,true,true,true,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,false,true,false,true,true,true,true,true],"show-checkboxes":true}
 ```
 %%
